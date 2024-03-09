@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExerEstruturaSequencial05/1.0.0": {
+        "runtime": {
+          "ExerEstruturaSequencial05.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerEstruturaSequencial05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

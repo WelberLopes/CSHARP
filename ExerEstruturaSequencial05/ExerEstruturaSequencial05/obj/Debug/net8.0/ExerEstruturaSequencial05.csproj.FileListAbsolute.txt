@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\bin\Debug\net8.0\ExerEstruturaSequencial05.exe
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\bin\Debug\net8.0\ExerEstruturaSequencial05.deps.json
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\bin\Debug\net8.0\ExerEstruturaSequencial05.runtimeconfig.json
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\bin\Debug\net8.0\ExerEstruturaSequencial05.dll
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\bin\Debug\net8.0\ExerEstruturaSequencial05.pdb
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.AssemblyInfo.cs
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.dll
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\refint\ExerEstruturaSequencial05.dll
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.pdb
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ExerEstruturaSequencial05.genruntimeconfig.cache
+A:\ProjetosC\ExerEstruturaSequencial05\ExerEstruturaSequencial05\obj\Debug\net8.0\ref\ExerEstruturaSequencial05.dll

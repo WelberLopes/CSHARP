@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ProjetosC\\ExerFixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB9AD17-E9C6-4E35-B51E-5B2009AF8CFB}|ExerFixacao\\ExerFixacao.csproj|a:\\projetosc\\exerfixacao\\exerfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB9AD17-E9C6-4E35-B51E-5B2009AF8CFB}|ExerFixacao\\ExerFixacao.csproj|solutionrelative:exerfixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\ProjetosC\\ExerFixacao\\ExerFixacao\\Program.cs",
+              "RelativeDocumentMoniker": "ExerFixacao\\Program.cs",
+              "ToolTip": "A:\\ProjetosC\\ExerFixacao\\ExerFixacao\\Program.cs",
+              "RelativeToolTip": "ExerFixacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:04:17.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

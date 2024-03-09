@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ProjetosC\\ExerEstruturaSequencial06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DDFE9F-AC4E-488D-A21D-8FE35E2F8A0D}|ExerEstruturaSequencial06\\ExerEstruturaSequencial06.csproj|a:\\projetosc\\exerestruturasequencial06\\exerestruturasequencial06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DDFE9F-AC4E-488D-A21D-8FE35E2F8A0D}|ExerEstruturaSequencial06\\ExerEstruturaSequencial06.csproj|solutionrelative:exerestruturasequencial06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\ProjetosC\\ExerEstruturaSequencial06\\ExerEstruturaSequencial06\\Program.cs",
+              "RelativeDocumentMoniker": "ExerEstruturaSequencial06\\Program.cs",
+              "ToolTip": "A:\\ProjetosC\\ExerEstruturaSequencial06\\ExerEstruturaSequencial06\\Program.cs",
+              "RelativeToolTip": "ExerEstruturaSequencial06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T22:46:59.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

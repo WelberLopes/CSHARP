@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\bin\Debug\net8.0\ExerEstruturasCond03.exe
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\bin\Debug\net8.0\ExerEstruturasCond03.deps.json
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\bin\Debug\net8.0\ExerEstruturasCond03.runtimeconfig.json
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\bin\Debug\net8.0\ExerEstruturasCond03.dll
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\bin\Debug\net8.0\ExerEstruturasCond03.pdb
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.AssemblyInfo.cs
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.dll
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\refint\ExerEstruturasCond03.dll
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.pdb
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ExerEstruturasCond03.genruntimeconfig.cache
+A:\ProjetosC\ExerEstruturasCond03\ExerEstruturasCond03\obj\Debug\net8.0\ref\ExerEstruturasCond03.dll

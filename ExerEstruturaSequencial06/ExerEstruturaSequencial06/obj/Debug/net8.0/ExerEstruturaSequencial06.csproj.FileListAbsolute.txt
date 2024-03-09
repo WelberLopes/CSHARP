@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.AssemblyInfo.cs
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\bin\Debug\net8.0\ExerEstruturaSequencial06.exe
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\bin\Debug\net8.0\ExerEstruturaSequencial06.deps.json
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\bin\Debug\net8.0\ExerEstruturaSequencial06.runtimeconfig.json
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\bin\Debug\net8.0\ExerEstruturaSequencial06.dll
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\bin\Debug\net8.0\ExerEstruturaSequencial06.pdb
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.dll
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\refint\ExerEstruturaSequencial06.dll
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.pdb
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ExerEstruturaSequencial06.genruntimeconfig.cache
+A:\ProjetosC\ExerEstruturaSequencial06\ExerEstruturaSequencial06\obj\Debug\net8.0\ref\ExerEstruturaSequencial06.dll

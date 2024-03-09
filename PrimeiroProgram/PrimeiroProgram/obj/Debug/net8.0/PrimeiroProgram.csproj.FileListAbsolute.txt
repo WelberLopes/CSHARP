@@ -1,0 +1,14 @@
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.AssemblyInfoInputs.cache
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.AssemblyInfo.cs
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.csproj.CoreCompileInputs.cache
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\bin\Debug\net8.0\PrimeiroProgram.exe
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\bin\Debug\net8.0\PrimeiroProgram.deps.json
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\bin\Debug\net8.0\PrimeiroProgram.runtimeconfig.json
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\bin\Debug\net8.0\PrimeiroProgram.dll
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\bin\Debug\net8.0\PrimeiroProgram.pdb
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.dll
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\refint\PrimeiroProgram.dll
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.pdb
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\PrimeiroProgram.genruntimeconfig.cache
+A:\ProjetosC\PrimeiroProgram\PrimeiroProgram\obj\Debug\net8.0\ref\PrimeiroProgram.dll

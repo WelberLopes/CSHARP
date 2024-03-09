@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerWhile01\ExerWhile01\bin\Debug\net8.0\ExerWhile01.exe
+A:\ProjetosC\ExerWhile01\ExerWhile01\bin\Debug\net8.0\ExerWhile01.deps.json
+A:\ProjetosC\ExerWhile01\ExerWhile01\bin\Debug\net8.0\ExerWhile01.runtimeconfig.json
+A:\ProjetosC\ExerWhile01\ExerWhile01\bin\Debug\net8.0\ExerWhile01.dll
+A:\ProjetosC\ExerWhile01\ExerWhile01\bin\Debug\net8.0\ExerWhile01.pdb
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.AssemblyInfo.cs
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.dll
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\refint\ExerWhile01.dll
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.pdb
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ExerWhile01.genruntimeconfig.cache
+A:\ProjetosC\ExerWhile01\ExerWhile01\obj\Debug\net8.0\ref\ExerWhile01.dll

@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerFOR\ExerFOR\bin\Debug\net8.0\ExerFOR.exe
+A:\ProjetosC\ExerFOR\ExerFOR\bin\Debug\net8.0\ExerFOR.deps.json
+A:\ProjetosC\ExerFOR\ExerFOR\bin\Debug\net8.0\ExerFOR.runtimeconfig.json
+A:\ProjetosC\ExerFOR\ExerFOR\bin\Debug\net8.0\ExerFOR.dll
+A:\ProjetosC\ExerFOR\ExerFOR\bin\Debug\net8.0\ExerFOR.pdb
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.AssemblyInfo.cs
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.dll
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\refint\ExerFOR.dll
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.pdb
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ExerFOR.genruntimeconfig.cache
+A:\ProjetosC\ExerFOR\ExerFOR\obj\Debug\net8.0\ref\ExerFOR.dll

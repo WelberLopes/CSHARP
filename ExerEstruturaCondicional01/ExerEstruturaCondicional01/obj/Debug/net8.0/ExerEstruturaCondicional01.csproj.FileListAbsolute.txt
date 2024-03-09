@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\bin\Debug\net8.0\ExerEstruturaCondicional01.exe
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\bin\Debug\net8.0\ExerEstruturaCondicional01.deps.json
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\bin\Debug\net8.0\ExerEstruturaCondicional01.runtimeconfig.json
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\bin\Debug\net8.0\ExerEstruturaCondicional01.dll
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\bin\Debug\net8.0\ExerEstruturaCondicional01.pdb
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.AssemblyInfo.cs
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.dll
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\refint\ExerEstruturaCondicional01.dll
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.pdb
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ExerEstruturaCondicional01.genruntimeconfig.cache
+A:\ProjetosC\ExerEstruturaCondicional01\ExerEstruturaCondicional01\obj\Debug\net8.0\ref\ExerEstruturaCondicional01.dll

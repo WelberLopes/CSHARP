@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.AssemblyInfo.cs
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\bin\Debug\net8.0\ExerEstruturaSequencial03.exe
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\bin\Debug\net8.0\ExerEstruturaSequencial03.deps.json
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\bin\Debug\net8.0\ExerEstruturaSequencial03.runtimeconfig.json
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\bin\Debug\net8.0\ExerEstruturaSequencial03.dll
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\bin\Debug\net8.0\ExerEstruturaSequencial03.pdb
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.dll
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\refint\ExerEstruturaSequencial03.dll
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.pdb
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ExerEstruturaSequencial03.genruntimeconfig.cache
+A:\ProjetosC\ExerEstruturaSequencial03\ExerEstruturaSequencial03\obj\Debug\net8.0\ref\ExerEstruturaSequencial03.dll

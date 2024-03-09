@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExerWhile01/1.0.0": {
+        "runtime": {
+          "ExerWhile01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerWhile01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

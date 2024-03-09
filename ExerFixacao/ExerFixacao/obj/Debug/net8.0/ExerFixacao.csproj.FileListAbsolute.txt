@@ -1,0 +1,14 @@
+A:\ProjetosC\ExerFixacao\ExerFixacao\bin\Debug\net8.0\ExerFixacao.exe
+A:\ProjetosC\ExerFixacao\ExerFixacao\bin\Debug\net8.0\ExerFixacao.deps.json
+A:\ProjetosC\ExerFixacao\ExerFixacao\bin\Debug\net8.0\ExerFixacao.runtimeconfig.json
+A:\ProjetosC\ExerFixacao\ExerFixacao\bin\Debug\net8.0\ExerFixacao.dll
+A:\ProjetosC\ExerFixacao\ExerFixacao\bin\Debug\net8.0\ExerFixacao.pdb
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.AssemblyInfoInputs.cache
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.AssemblyInfo.cs
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.csproj.CoreCompileInputs.cache
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.dll
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\refint\ExerFixacao.dll
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.pdb
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ExerFixacao.genruntimeconfig.cache
+A:\ProjetosC\ExerFixacao\ExerFixacao\obj\Debug\net8.0\ref\ExerFixacao.dll

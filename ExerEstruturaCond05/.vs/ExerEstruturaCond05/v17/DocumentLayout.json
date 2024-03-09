@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\ProjetosC\\ExerEstruturaCond05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252F5054-BB29-4DE7-9045-043769C1E999}|ExerEstruturaCond05\\ExerEstruturaCond05.csproj|a:\\projetosc\\exerestruturacond05\\exerestruturacond05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252F5054-BB29-4DE7-9045-043769C1E999}|ExerEstruturaCond05\\ExerEstruturaCond05.csproj|solutionrelative:exerestruturacond05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\ProjetosC\\ExerEstruturaCond05\\ExerEstruturaCond05\\Program.cs",
+              "RelativeDocumentMoniker": "ExerEstruturaCond05\\Program.cs",
+              "ToolTip": "A:\\ProjetosC\\ExerEstruturaCond05\\ExerEstruturaCond05\\Program.cs",
+              "RelativeToolTip": "ExerEstruturaCond05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:00:55.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
